@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/jan-sher-khan-nizamani-2212353b7">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:Jansher2k19@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#296348475a414c5b1b421810694e44484045074a4644">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/jansherkhan-data-scientist">
@@ -81,8 +81,12 @@ Welcome to my GitHub portfolio! I'm a beginner in data science, passionate about
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jansherkhan-data-scientist&show_icons=true&theme=tokyonight&hide_border=true" alt="Jan Sher's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansherkhan-data-scientist&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jansherkhan-data-scientist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Jan Sher's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansherkhan-data-scientist&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jansherkhan-data-scientist&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="55%"/>
 </p>
 
 ---
@@ -93,12 +97,4 @@ I'd love to connect, collaborate, or just chat about data science!
 
 - 💼 **LinkedIn:** [Jan Sher Khan Nizamani](https://www.linkedin.com/in/jan-sher-khan-nizamani-2212353b7)
 - 📧 **Email:** [Jansher2k19@gmail.com](mailto:Jansher2k19@gmail.com)
-- 🌐 **GitHub:** [jansherkhan-data-scientist](https://github.com/jansherkhan-data-scientist)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jansherkhan-data-scientist&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="center"><em>"Turning data into stories, one dataset at a time." 📖</em></p>
+- 🌐 **GitHub:** [jansherkhan-data-scientist](h
