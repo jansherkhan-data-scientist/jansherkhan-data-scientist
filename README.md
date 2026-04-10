@@ -98,4 +98,4 @@ I'd love to connect, collaborate, or just chat about data science!
 - 💼 **LinkedIn:** [Jan Sher Khan Nizamani](https://www.linkedin.com/in/jan-sher-khan-nizamani-2212353b7)
 - 📧 **Email:** [Jansher2k19@gmail.com](mailto:Jansher2k19@gmail.com)
 - 🌐 **GitHub:** [https://github.com/jansherkhan-data-scientist]
-![Profile Views](https://komarevcom/ghpvc/?username=your-jansherkhan-data-scientist&color=brightgreen&style=for-the-badge&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=jansherkhan-data-scientist)
