@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jan Sher Khan 👋</h1>
+<h1 align="center">Hi there, I'm a Data Scientist 👋</h1>
 
 <p align="center">
   <em>🎯 Aspiring Data Scientist &nbsp;|&nbsp; 📊 Data Enthusiast &nbsp;|&nbsp; 🧠 Lifelong Learner</em>
