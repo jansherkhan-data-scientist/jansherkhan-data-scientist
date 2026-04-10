@@ -35,7 +35,6 @@ Welcome to my GitHub portfolio! I'm a beginner in data science, passionate about
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Libraries & Frameworks**
 
