@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jan Sher Khan Nizamani 👋</h1>
+<h1 align="center">Hi there, I'm a Data Analyst 👋</h1>
 
 <p align="center">
   <em>📊 Data Analyst | 🤖 Machine Learning Fundamentals | 📈 Statistics Background</em>
