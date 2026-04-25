@@ -1,150 +1,98 @@
-<h1 align="center">Hi there, I'm a Data Scientist 👋</h1>
+# Jan Sher Khan (Jan Sher Khan Nizamani)
+**Data Analyst | ML Fundamentals | Statistics Background**
 
-<p align="center">
-  <em>📊 Data Analyst | 🤖 Machine Learning Fundamentals | 📈 Statistics Background</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jan-sher-khan-nizamani-2212353b7">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Jansher2k19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/jansherkhan-data-scientist">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+Data professional with a **Bachelor's in Statistics** and hands-on experience turning raw data into actionable insights. Skilled in **Exploratory Data Analysis (EDA)**, **machine learning fundamentals**, and building end-to-end analytical pipelines focused on clarity, impact, and statistical rigor.
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a **Statistics graduate** turned data professional, passionate about extracting insights from data and building foundational machine learning models. I bridge the gap between descriptive analytics and predictive modeling.
+I bridge the gap between **descriptive analytics and predictive modeling**. My work focuses on cleaning, exploring, and modeling data to solve real-world problems — from customer segmentation to price prediction.
 
-- 🔍 **Currently focused on:** Data Analysis, Exploratory Data Analysis (EDA), and ML Fundamentals
-- 📊 **Background:** Bachelor's in Statistics — strong foundation in probability, hypothesis testing, and statistical inference
-- 🎯 **Career goal:** Data Analyst role with ML responsibilities | Long-term: Data Scientist
-- 🧠 **Learning path:** Python → Pandas/NumPy → Data Visualization → Scikit-learn → Basic ML Models
-- ☁️ **Workflow:** I primarily work in **Google Colab** for collaborative, cloud-based data analysis and ML experimentation
-- 📖 **Fun fact:** I see every dataset as a story waiting to be told — and sometimes a prediction waiting to be made
+I’m actively looking for **Data Analyst roles** or internships where I can apply my analytics skills while continuing to grow into machine learning and data science responsibilities.
 
 ---
 
-## 🛠️ Technical Toolkit
+## Selected Impact & Projects
 
-### Data Analysis & Manipulation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+- **Life Expectancy Prediction:** Built tree-based models (Decision Trees, Random Forest) to predict health outcome categories — explored feature importance and model comparison.
+- **Bank Marketing Campaign:** Predicted term deposit subscriptions using classification models — included full EDA, preprocessing, and model evaluation.
+- **Customer Churn Prediction:** Compared multiple classifiers (Logistic Regression, Random Forest, XGBoost) to identify at-risk customers.
+- **Ames Housing Price Prediction:** Developed a full ML pipeline with log transformation, scaling, encoding, and cross-validation for real estate price forecasting.
+- **Mall Customer Segmentation:** Applied K-Means clustering to segment 200 customers into 5 distinct groups for targeted marketing.
 
-### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Machine Learning (Fundamentals)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Tools & Environment
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### Core Competencies
-`Data Cleaning` • `Exploratory Data Analysis (EDA)` • `Data Wrangling` • `Statistical Thinking` • `Regression Basics` • `Classification Fundamentals`
+> All projects include clear documentation, visualizations, and a focus on actionable business insights.
 
 ---
 
-## 📂 Featured Projects
+## Technical Toolkit
 
-### 🌳 Tree-Based Models for Life Expectancy
-[![Repository](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jansherkhan-data-scientist/tree-based-models-life-expectancy)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+**Data Analysis & Manipulation**  
+Python (Pandas, NumPy), Data Wrangling, Handling Missing Values, Reshaping Data
 
-> Predicting life expectancy using decision trees, random forests, and gradient boosting algorithms. This project explores how tree-based models handle complex relationships in health data.
+**Data Visualization**  
+Matplotlib, Seaborn, Plotly (basic), Distribution Analysis, Correlation Heatmaps
 
----
+**Machine Learning (Fundamentals)**  
+Scikit-learn, Regression (Linear, Logistic), Classification (Random Forest, XGBoost), Clustering (K-Means), Hyperparameter Tuning
 
-### 🏦 Bank Marketing Campaign Analysis
-[![Repository](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jansherkhan-data-scientist/Bank-Marketing-Campaign-Analysis-Term-Deposit-Subscription-Prediction)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+**Tools & Environment**  
+Google Colab (primary), Jupyter Notebook, Git, GitHub
 
-> Predicting term deposit subscription using classification models for a Portuguese banking institution. Includes EDA, feature engineering, and model comparison.
+**Statistical Foundation**  
+Probability, Hypothesis Testing, Statistical Inference, Correlation, Descriptive Statistics
 
 ---
 
-### 📞 Customer Churn Classification Comparison
-[![Repository](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jansherkhan-data-scientist/Customer-churn-classification-comparison)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0%2B-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.3%2B-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3%2B-11557C?style=flat-square&logo=python&logoColor=white)](https://matplotlib.org/)
+## Representative Work
 
-> Comparing multiple classifiers (Logistic Regression, Random Forest, XGBoost, etc.) for customer churn prediction. Focuses on model evaluation metrics and performance comparison.
+**Tree-Based Models for Life Expectancy**  
+- Predicted life expectancy categories using Decision Trees and Random Forests  
+- Performed hyperparameter tuning and feature importance analysis  
+*Tech:* Python, Pandas, Scikit-learn, Matplotlib
 
----
+**Bank Marketing Campaign Analysis**  
+- Built classification model to predict term deposit subscription  
+- Conducted EDA, feature engineering, and scaling for tabular data  
+*Tech:* Python, Pandas, Seaborn, Scikit-learn
 
-### 📊 Python for Data Analysis *(Coming Soon)*
-> Variables, loops, functions, and data structures — the foundation of programmatic analysis
+**Customer Churn Classification Comparison**  
+- Compared Logistic Regression, Random Forest, and XGBoost for churn prediction  
+- Evaluated models using precision, recall, F1, and ROC-AUC  
+*Tech:* Scikit-learn, XGBoost, Matplotlib
 
----
+**Ames Housing Price Prediction**  
+- Full ML pipeline: outlier detection, log transformation, encoding, scaling, cross-validation  
+- Interpreted coefficients and residuals  
+*Tech:* Python, Scikit-learn, Seaborn
 
-### 🧹 Data Wrangling in Python *(Coming Soon)*
-> Handling missing values, reshaping datasets, and preparing messy data for analysis
-
----
-
-### 📈 Exploratory Data Analysis (EDA) *(Coming Soon)*
-> Loading datasets, cleaning, visualizing distributions, and extracting actionable insights
-
----
-
-> 💡 *I believe in learning by building — each project represents a new skill mastered. Feedback welcome!*
-
----
-
-## 🎯 Current Learning Goals
-
-| Focus Area | Status | Next Step |
-|------------|--------|------------|
-| Python for Data | ✅ Completed | Advanced Pandas |
-| Data Visualization | ✅ In progress | Dashboard creation |
-| ML Fundamentals | 🔄 In progress | Hyperparameter tuning |
-| SQL | 📅 Planned | Data extraction queries |
-| Statistics for ML | 📅 Planned | Hypothesis testing in Python |
+**Mall Customer Segmentation (K-Means)**  
+- Segmented 200 customers into 5 distinct groups using unsupervised learning  
+- Identified high-value spenders, impulse buyers, and budget shoppers  
+*Tech:* Python, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
-## 📈 GitHub Stats
+## Engineering Principles (for Data)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jansherkhan-data-scientist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jansherkhan-data-scientist&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jansherkhan-data-scientist&theme=tokyonight&hide_border=true" alt="Streak Stats" width="55%"/>
-</p>
+- **Correctness before complexity** — validate data and assumptions first  
+- **Reproducible analysis** — prefer notebooks with clear flow and documented decisions  
+- **Visualize early** — EDA guides better modeling choices  
+- **Compare multiple models** — no single algorithm is universally best  
+- **Communicate insights clearly** — charts and summaries over raw numbers  
 
 ---
 
-## 📫 Let's Connect
+## Current Focus
 
-I'm actively looking for **Data Analyst** roles or internships where I can apply my analytics skills while growing into machine learning.
-
-- 💼 **LinkedIn:** [Jan Sher Khan Nizamani](https://www.linkedin.com/in/jan-sher-khan-nizamani-2212353b7)
-- 📧 **Email:** [Jansher2k19@gmail.com](mailto:Jansher2k19@gmail.com)
-- 🌐 **GitHub:** [github.com/jansherkhan-data-scientist](https://github.com/jansherkhan-data-scientist)
-
-![](https://komarev.com/ghpvc/?username=jansherkhan-data-scientist&color=blue)
+Building fundamental ML skills while delivering **production-ready analysis** — progressing from descriptive analytics to predictive and prescriptive insights.
 
 ---
 
-*"From descriptive analytics to predictive insights — one project at a time."*
+## Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/jan-sher-khan-nizamani-2212353b7  
+📧 Email: Jansher2k19@gmail.com  
+🐙 GitHub: https://github.com/jansherkhan-data-scientist  
+
+*Open to Data Analyst roles, internships, and collaboration on impactful data projects.*
