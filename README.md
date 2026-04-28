@@ -1,4 +1,4 @@
-# Jan Sher Khan (Jan Sher Khan Nizamani)
+# Jan Sher Khan
 **Data Analyst | ML Fundamentals | Statistics Background**
 
 Data professional with a **Bachelor's in Statistics** and hands-on experience turning raw data into actionable insights. Skilled in **Exploratory Data Analysis (EDA)**, **machine learning fundamentals**, and building end-to-end analytical pipelines focused on clarity, impact, and statistical rigor.
